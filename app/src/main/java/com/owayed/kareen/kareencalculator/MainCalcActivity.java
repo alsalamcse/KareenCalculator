@@ -42,7 +42,7 @@ public class MainCalcActivity extends AppCompatActivity implements View.OnClickL
     public void onClick(View view) {
 
         String stNum1=etNum1.getText().toString();
-        double
+        double num1=
         if(view==btnzaied)
         {
 
